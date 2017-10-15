@@ -1,7 +1,6 @@
 Git is a distributed version control system.
-Git is free software distributed under the GPL.
+Git is a free software distributed under the GPL.
 Add license.
 Git tracks changes of files.
 test remote repository.
-Creating a new branch is quick and simple.
-addd 
+temporory using deb
